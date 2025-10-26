@@ -1,0 +1,12 @@
+{
+  "name": "farmaup-teste",
+  "version": "1.0.0",
+  "description": "Projeto completo desenvolvido para o Teste Técnico de Estagiário de Desenvolvimento da FarmaUP, contendo uma API REST em Node.js e Flutter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
