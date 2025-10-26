@@ -2,11 +2,11 @@
 
 Projeto completo desenvolvido para o Teste Técnico de Estagiário de Desenvolvimento da FarmaUP, contendo uma API REST em Node.js e o webem Flutter.
 
-## � Início Rápido
+## Início Rápido
 
 **Novo na configuração?** Siga o guia: **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** para setup em 5 minutos!
 
-## �📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 
 Sistema CRUD completo para gerenciamento de clientes, permitindo:
 - Cadastrar novos clientes
@@ -416,14 +416,11 @@ curl -H "Authorization: Bearer token_invalido" http://localhost:3002/clientes
 - Confirme que `app.use(cors())` está no server.js
 - Reinicie o servidor
 
-## � Documentação Adicional
+## Documentação Adicional
 
-- **[SEGURANCA_API.md](SEGURANCA_API.md)** - Detalhes completos da implementação de segurança
-- **[TESTES_SEGURANCA.md](TESTES_SEGURANCA.md)** - Guia de testes para validar a autenticação
 - **[api/README.md](api/README.md)** - Documentação específica da API
-- **[frontend/README.md](frontend/README.md)** - Documentação do frontend Flutter
 
-## �📞 Suporte
+## 📞 Suporte
 
 Para dúvidas ou problemas:
 1. Verifique a documentação em cada README
