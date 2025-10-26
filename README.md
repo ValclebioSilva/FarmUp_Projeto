@@ -2,10 +2,6 @@
 
 Projeto completo desenvolvido para o Teste Técnico de Estagiário de Desenvolvimento da FarmaUP, contendo uma API REST em Node.js e o webem Flutter.
 
-## Início Rápido
-
-**Novo na configuração?** Siga o guia: **[INICIO_RAPIDO.md](INICIO_RAPIDO.md)** para setup em 5 minutos!
-
 ## 📋 Sobre o Projeto
 
 Sistema CRUD completo para gerenciamento de clientes, permitindo:
